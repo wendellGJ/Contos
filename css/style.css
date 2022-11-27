@@ -95,7 +95,7 @@ nav a#toggle-btn {
     text-align: left;
     width: 100%;
     text-indent: 25px;
-    background: #35b1c7;
+    background: #685500;
     color: #ffffff;
   }
   nav a:hover {
@@ -113,7 +113,7 @@ nav a#toggle-btn {
   }
   nav a#toggle-btn {
     display: block;
-    background: #35b1c7;
+    background: #685500;
     color: #ffffff;
     width: 100%;
     position: relative;
